@@ -10,4 +10,4 @@ My submissions for the Local Hack Day - Build.
 - [ ] Create a website mockup using only 3 colors
 - [ ] Create a design using only circles
 - [ ] Redesign the logo of a tool you use
-- [ ] Create a timer hack
+- [x] Create a timer hack
