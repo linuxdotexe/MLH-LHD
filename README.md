@@ -4,10 +4,12 @@ My submissions for the Local Hack Day - Build.
 
 ## Day - 1 tasks
 
-- [ ] Automate a Daily Task
+### Finished in time
+
 - [x] Write a script to check the weather
+- [x] Create a timer hack
+
+### Want to do these later.
+
 - [ ] Build a hack that writes haikus
 - [ ] Create a website mockup using only 3 colors
-- [ ] Create a design using only circles
-- [ ] Redesign the logo of a tool you use
-- [x] Create a timer hack
