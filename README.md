@@ -13,3 +13,12 @@ My submissions for the Local Hack Day - Build.
 
 - [ ] Build a hack that writes haikus
 - [ ] Create a website mockup using only 3 colors
+
+## Day - 2 tasks
+
+- [ ] Pixel Art Generator
+- [x] Write a script to reverse a string
+- [x] Build a bot to play rock, paper, scissors with you
+- [x] Write an in-depth README for one of your projects
+- [x] Explore your first decentralized social network
+- [x] Download TwilioQuest and join the LHD: Build Operation
